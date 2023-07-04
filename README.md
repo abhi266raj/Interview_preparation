@@ -4,10 +4,9 @@
 2. Resume tips from Amazon HR: https://www.youtube.com/watch?v=4uYTrp3G-u4
 
 
-# System Design Reference Materials
+# Inteview Guide
 
-1. Design Patterns: Elements of Reusable Object-Oriented Software Book
-2. PS/DS: (Please follows the link in Same order. It may contains duplicate content)
+1. DS/Algo round: 
     1. https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
     2. https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/
     3. https://www.geeksforgeeks.org/must-coding-questions-company-wise/
@@ -16,7 +15,7 @@
     6. https://www.interviewbit.com/search/?q=Microsoft 
     7. https://www.geeksforgeeks.org/top-25-interview-questions/ 
 
-3. System Design:
+2. System Design:
     * Very imporant for High Level Design https://www.educative.io/collection/5668639101419520/5649050225344512 
     * High Level Desig theory: https://dzone.com/articles/design-patterns-for-microservices 
     * Very Important for Low level Design: https://www.educative.io/courses/grokking-the-object-oriented-design-interview
@@ -28,8 +27,10 @@
 * https://developer.apple.com/videos/play/wwdc2016/724/
 * https://cs193p.sites.stanford.edu/
 
-# NPTEL DSA and Algorithm lectures by IIT Delhi 
-https://nptel.ac.in/courses/106/102/106102064/
+# Course and Books
+1. https://nptel.ac.in/courses/106/102/106102064/
+2. Design Patterns: Elements of Reusable Object-Oriented Software Book
 
-# 500+ Data Structures and Algorithms practice problems
-https://github.com/bollwarm/DataStructuresAlgorithms
+# Pratice Problems
+1. https://github.com/bollwarm/DataStructuresAlgorithms
+2. Leetcode.com
