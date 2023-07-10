@@ -2,6 +2,7 @@
 
 1. Resume tips from Google HR: https://youtu.be/BYUy1yvjHxE
 2. Resume tips from Amazon HR: https://www.youtube.com/watch?v=4uYTrp3G-u4
+3. Check sample CV in the repo
 
 
 # Inteview Guide
