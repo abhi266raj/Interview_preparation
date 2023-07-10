@@ -1,4 +1,4 @@
-# CV - Linus Torvalds
+# Chat Gpt Generatd sample Cv - Linus Torvalds
 
 ## Summary
 
